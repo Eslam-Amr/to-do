@@ -1,0 +1,6 @@
+CRUD
+C=>create
+R=>Read
+U=>update
+D=>delete
+سيستم او حاجه شبه كده
